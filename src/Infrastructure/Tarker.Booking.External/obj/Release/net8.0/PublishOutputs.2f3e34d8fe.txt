@@ -1,0 +1,8 @@
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Tarker.Booking.External.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Tarker.Booking.External.deps.json
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Tarker.Booking.External.pdb
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Microsoft.Extensions.Configuration.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Infrastructure/Tarker.Booking.External/bin/Release/net8.0/publish/Microsoft.Extensions.Primitives.dll

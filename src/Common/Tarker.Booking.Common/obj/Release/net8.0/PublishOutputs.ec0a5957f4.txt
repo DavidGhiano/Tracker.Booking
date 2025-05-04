@@ -1,0 +1,5 @@
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/publish/Tarker.Booking.Common.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/publish/Tarker.Booking.Common.deps.json
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/publish/Tarker.Booking.Common.pdb
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/publish/Microsoft.Extensions.DependencyInjection.Abstractions.dll
