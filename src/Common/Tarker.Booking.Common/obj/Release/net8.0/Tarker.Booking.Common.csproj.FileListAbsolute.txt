@@ -1,0 +1,12 @@
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/Tarker.Booking.Common.deps.json
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/Tarker.Booking.Common.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/bin/Release/net8.0/Tarker.Booking.Common.pdb
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/Tarker.Booking.Common.csproj.AssemblyReference.cache
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/Tarker.Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/Tarker.Booking.Common.AssemblyInfoInputs.cache
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/Tarker.Booking.Common.AssemblyInfo.cs
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/Tarker.Booking.Common.csproj.CoreCompileInputs.cache
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/Tarker.Booking.Common.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/refint/Tarker.Booking.Common.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/Tarker.Booking.Common.pdb
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/obj/Release/net8.0/ref/Tarker.Booking.Common.dll

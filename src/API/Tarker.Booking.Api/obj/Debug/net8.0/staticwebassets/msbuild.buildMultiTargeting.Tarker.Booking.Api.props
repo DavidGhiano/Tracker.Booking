@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Tarker.Booking.Api.props" />
+</Project>

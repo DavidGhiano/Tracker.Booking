@@ -1,0 +1,3 @@
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Core/Tarker.Booking.Domain/bin/Release/net8.0/publish/Tarker.Booking.Domain.dll
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Core/Tarker.Booking.Domain/bin/Release/net8.0/publish/Tarker.Booking.Domain.deps.json
+/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Core/Tarker.Booking.Domain/bin/Release/net8.0/publish/Tarker.Booking.Domain.pdb

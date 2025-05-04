@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b19l6weh5W8=",
+  "success": true,
+  "projectFilePath": "/Users/davidg/Desktop/ProyectoCursoUdemy/Tarker.Booking/src/Common/Tarker.Booking.Common/Tarker.Booking.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidg/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.4/microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "/Users/davidg/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.4/microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
